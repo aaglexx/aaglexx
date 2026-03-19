@@ -8,16 +8,12 @@ LLM systems • Backend • Automation
 
 ---
 
-## 🚀 Projects
+## 🧠 What I Do
 
-**🎙 Meetory**  
-audio → STT → LLM → structured output  
-
-**📊 RAG System** *(in progress)*  
-retrieval + context-aware analysis  
-
-**🤖 AI Automation** *(in progress)*  
-Telegram-based workflows  
+- build AI pipelines (audio / text → processing → structured output)  
+- design RAG systems for real use cases  
+- integrate LLMs into backend services and workflows  
+- automate routine processes using AI  
 
 ---
 
