@@ -10,9 +10,14 @@ LLM systems • Backend • Automation
 
 ## 🚀 Projects
 
-**🎙 Meetory** — audio → STT → LLM → structured output  
-**📊 RAG System** — retrieval + context-aware analysis *(in progress)*  
-**🤖 AI Automation** — Telegram-based workflows *(in progress)*  
+**🎙 Meetory**  
+audio → STT → LLM → structured output  
+
+**📊 RAG System** *(in progress)*  
+retrieval + context-aware analysis  
+
+**🤖 AI Automation** *(in progress)*  
+Telegram-based workflows  
 
 ---
 
@@ -32,20 +37,7 @@ LLM systems • Backend • Automation
 
 ## 🧩 Focus
 
-- AI pipelines (audio / text → result)  
-- RAG systems  
-- Backend for AI services  
-
----
-
-## 📈 Stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=aaglexx&show_icons=true&theme=dark&hide_border=true&hide_title=true)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaglexx&layout=compact&theme=dark&hide_border=true)
-
-</div>
+AI pipelines • RAG • backend systems  
 
 ---
 
