@@ -2,91 +2,53 @@
 
 # AI Engineer
 
-Building practical AI systems with LLMs, backend services, and automation
+LLM systems • Backend • Automation
 
 </div>
-
----
-
-## 🧠 About
-
-- Focused on applied AI, not experiments  
-- Working with LLM-based systems and real workflows  
-- Combining backend + AI into usable services  
 
 ---
 
 ## 🚀 Projects
 
-### 🎙 Meetory
-**Audio → STT → LLM → Structured Output**
-
-- End-to-end AI pipeline
-- Processes raw audio into structured data
-- Backend service built around LLM processing
+**🎙 Meetory** — audio → STT → LLM → structured output  
+**📊 RAG System** — retrieval + context-aware analysis *(in progress)*  
+**🤖 AI Automation** — Telegram-based workflows *(in progress)*  
 
 ---
 
-### 📊 RAG System *(in progress)*
-**Context-aware retrieval system**
-
-- Knowledge retrieval + LLM reasoning
-- Focus on relevance and output structure
-- Designed for real-world usage
-
----
-
-### 🤖 AI Automation Tool *(in progress)*
-**Telegram-based AI assistant**
-
-- Task automation via LLM
-- Handles text and voice input
-- Designed for daily workflows
-
----
-
-## ⚙️ Tech Stack
+## ⚙️ Stack
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-![FastAPI](https://img.shields.io/badge/FastAPI-000?style=for-the-badge&logo=fastapi)
-![OpenAI](https://img.shields.io/badge/OpenAI-000?style=for-the-badge&logo=openai)
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
+![Python](https://img.shields.io/badge/Python-000?style=flat&logo=python)
+![FastAPI](https://img.shields.io/badge/FastAPI-000?style=flat&logo=fastapi)
+![LLM](https://img.shields.io/badge/LLM-000?style=flat)
+![RAG](https://img.shields.io/badge/RAG-000?style=flat)
+![API](https://img.shields.io/badge/API-000?style=flat)
 
 </div>
 
 ---
 
-## 🧩 Systems I Build
+## 🧩 Focus
 
-- AI pipelines (audio / text → processing → output)
-- RAG-based systems
-- Backend APIs for AI services
-- Workflow automation tools
+- AI pipelines (audio / text → result)  
+- RAG systems  
+- Backend for AI services  
 
 ---
 
-## 📈 GitHub Stats
+## 📈 Stats
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=aaglexx&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaglexx&layout=compact&theme=dark&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=aaglexx&show_icons=true&theme=dark&hide_border=true&hide_title=true)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaglexx&layout=compact&theme=dark&hide_border=true)
 
 </div>
-
----
-
-## 📌 Current Focus
-
-- Production-ready RAG systems  
-- AI automation tools  
-- Scalable backend architecture  
 
 ---
 
 ## 📫 Contact
 
-- Email: ianovskii.vla@icloud.com
-- GitHub: https://github.com/aaglexx
+ianovskii.vla@icloud.com
