@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-LLM systems • Backend • Automation
+LLM systems • Backend • AI automation
 
 </div>
 
@@ -10,10 +10,10 @@ LLM systems • Backend • Automation
 
 ## 🧠 What I Do
 
-- build AI pipelines (audio / text → processing → structured output)  
-- design RAG systems for real use cases  
-- integrate LLMs into backend services and workflows  
-- automate routine processes using AI  
+- design AI systems with clear data flow and predictable outputs  
+- use LLMs as components within structured backend workflows  
+- integrate AI into products through APIs and automation layers  
+- focus on making AI outputs reliable and usable in practice   
 
 ---
 
@@ -25,15 +25,17 @@ LLM systems • Backend • Automation
 ![FastAPI](https://img.shields.io/badge/FastAPI-000?style=flat&logo=fastapi)
 ![LLM](https://img.shields.io/badge/LLM-000?style=flat)
 ![RAG](https://img.shields.io/badge/RAG-000?style=flat)
-![API](https://img.shields.io/badge/API-000?style=flat)
+![REST](https://img.shields.io/badge/REST-000?style=flat)
+![Automation](https://img.shields.io/badge/Automation-000?style=flat)
 
 </div>
 
 ---
 
 ## 🧩 Focus
+# Focused on building useful AI features, not experiments
 
-AI pipelines • RAG • backend systems  
+AI pipelines • RAG systems • backend architecture
 
 ---
 
