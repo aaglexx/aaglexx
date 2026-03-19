@@ -33,7 +33,6 @@ LLM systems • Backend • AI automation
 ---
 
 ## 🧩 Focus
-# Focused on building useful AI features, not experiments
 
 AI pipelines • RAG systems • backend architecture
 
