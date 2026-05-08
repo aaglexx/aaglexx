@@ -1,43 +1,66 @@
-<div align="center">
+# Vlad
 
-# AI Engineer
-
-LLM systems • Backend • AI automation
-
-</div>
+**Backend / AI Product Engineer**  
+Building practical AI tools with TypeScript, Node.js, PostgreSQL and LLM APIs.
 
 ---
 
-## 🧠 What I Do
+## Focus
 
-- design AI systems with clear data flow and predictable outputs  
-- use LLMs as components within structured backend workflows  
-- integrate AI into products through APIs and automation layers  
-- focus on making AI outputs reliable and usable in practice   
-
----
-
-## ⚙️ Stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-000?style=flat&logo=python)
-![FastAPI](https://img.shields.io/badge/FastAPI-000?style=flat&logo=fastapi)
-![LLM](https://img.shields.io/badge/LLM-000?style=flat)
-![RAG](https://img.shields.io/badge/RAG-000?style=flat)
-![REST](https://img.shields.io/badge/REST-000?style=flat)
-![Automation](https://img.shields.io/badge/Automation-000?style=flat)
-
-</div>
+- Backend engineering
+- AI integrations
+- Product-oriented development
+- Clean APIs and useful workflows
 
 ---
 
-## 🧩 Focus
+## Tech
 
-AI pipelines • RAG systems • backend architecture
+```txt
+TypeScript · Node.js · PostgreSQL · Docker · REST APIs · LLM APIs
+```
 
 ---
 
-## 📫 Contact
+## Current direction
 
-ianovskii.vla@icloud.com
+I'm working on projects around AI productivity, meetings, tasks and structured workflows.
+
+My goal is to become a strong backend engineer who can not only write code, but also understand the product, break down vague problems and ship working solutions.
+
+---
+
+## Projects
+
+### Meetory
+
+AI meeting workspace that turns meetings into structured outputs:
+
+- summaries
+- decisions
+- action items
+- next steps
+
+### Backend / AI practice
+
+Small focused projects for practicing:
+
+- API design
+- authentication
+- database modeling
+- Docker setup
+- structured LLM outputs
+- deployment basics
+
+---
+
+## Open to
+
+- Junior Backend Developer roles
+- TypeScript / Node.js projects
+- AI integration work
+- early-stage product engineering
+
+---
+
+Building in public through commits, projects and shipped work.
