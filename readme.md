@@ -1,25 +1,13 @@
-<div align="center">
+# aaglexx
 
-```
-AI/ML Engineer
-```
+**AI/ML Engineer**
 
-Swift · Go · TypeScript
+Design and ship AI-powered products — from model integration and retrieval pipelines to structured workflows and backend infrastructure.
 
-</div>
+Focused on practical AI: things that actually work and solve real problems, not just wrappers around APIs. I care about the product side as much as the technical side — understanding the problem before writing a single line of code.
 
----
-
-### What I do
-
-Design and ship AI-powered products — from model integration and retrieval systems to backend infrastructure and native apps.
-
-Currently deepening in **Swift** and **Go**. Most existing projects are in **TypeScript**.
+Currently working with Python as my main language for AI/ML work. Have production experience with TypeScript and Node.js, moving toward Go for backend infrastructure.
 
 ---
 
-<div align="center">
-
-*Building through commits and shipped work.*
-
-</div>
+`Python` `TypeScript` `Node.js` `PostgreSQL` `LLM APIs` `Docker`
