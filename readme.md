@@ -1,66 +1,25 @@
-# Vlad
+<div align="center">
 
-**Backend / AI Product Engineer**  
-Building practical AI tools with TypeScript, Node.js, PostgreSQL and LLM APIs.
-
----
-
-## Focus
-
-- Backend engineering
-- AI integrations
-- Product-oriented development
-- Clean APIs and useful workflows
-
----
-
-## Tech
-
-```txt
-TypeScript · Node.js · PostgreSQL · Docker · REST APIs · LLM APIs
+```
+AI/ML Engineer
 ```
 
----
+Swift · Go · TypeScript
 
-## Current direction
-
-I'm working on projects around AI productivity, meetings, tasks and structured workflows.
-
-My goal is to become a strong backend engineer who can not only write code, but also understand the product, break down vague problems and ship working solutions.
+</div>
 
 ---
 
-## Projects
+### What I do
 
-### Meetory
+Design and ship AI-powered products — from model integration and retrieval systems to backend infrastructure and native apps.
 
-AI meeting workspace that turns meetings into structured outputs:
-
-- summaries
-- decisions
-- action items
-- next steps
-
-### Backend / AI practice
-
-Small focused projects for practicing:
-
-- API design
-- authentication
-- database modeling
-- Docker setup
-- structured LLM outputs
-- deployment basics
+Currently deepening in **Swift** and **Go**. Most existing projects are in **TypeScript**.
 
 ---
 
-## Open to
+<div align="center">
 
-- Junior Backend Developer roles
-- TypeScript / Node.js projects
-- AI integration work
-- early-stage product engineering
+*Building through commits and shipped work.*
 
----
-
-Building in public through commits, projects and shipped work.
+</div>
